@@ -1,0 +1,5 @@
+//Room.h
+
+class Room{
+	
+};

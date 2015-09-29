@@ -1,0 +1,5 @@
+//Rising.h
+
+class Rising{
+
+};

@@ -1,0 +1,5 @@
+//Monster.h
+
+class Monster{
+
+};

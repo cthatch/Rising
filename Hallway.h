@@ -1,0 +1,5 @@
+//Hallway.h 
+
+class Hallway{
+
+};
